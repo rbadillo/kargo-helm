@@ -8,7 +8,7 @@ spec:
   - name: image
     value: rbadillo/guestbook
   - name: repoURL
-    value: https://github.com/rbadillo/kargo-helm.git
+    value: git@github.com:rbadillo/kargo-helm.git
   - name: branch
     value: main
 
